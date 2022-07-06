@@ -1,0 +1,12 @@
+C:\COTI-CURSO-DEVELOPER AVANÇADO C#\Exercicio01\Exercicio01.Domain.Core\bin\Debug\net6.0\Exercicio01.Domain.Core.deps.json
+C:\COTI-CURSO-DEVELOPER AVANÇADO C#\Exercicio01\Exercicio01.Domain.Core\bin\Debug\net6.0\Exercicio01.Domain.Core.dll
+C:\COTI-CURSO-DEVELOPER AVANÇADO C#\Exercicio01\Exercicio01.Domain.Core\bin\Debug\net6.0\Exercicio01.Domain.Core.pdb
+C:\COTI-CURSO-DEVELOPER AVANÇADO C#\Exercicio01\Exercicio01.Domain.Core\obj\Debug\net6.0\Exercicio01.Domain.Core.csproj.AssemblyReference.cache
+C:\COTI-CURSO-DEVELOPER AVANÇADO C#\Exercicio01\Exercicio01.Domain.Core\obj\Debug\net6.0\Exercicio01.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\COTI-CURSO-DEVELOPER AVANÇADO C#\Exercicio01\Exercicio01.Domain.Core\obj\Debug\net6.0\Exercicio01.Domain.Core.AssemblyInfoInputs.cache
+C:\COTI-CURSO-DEVELOPER AVANÇADO C#\Exercicio01\Exercicio01.Domain.Core\obj\Debug\net6.0\Exercicio01.Domain.Core.AssemblyInfo.cs
+C:\COTI-CURSO-DEVELOPER AVANÇADO C#\Exercicio01\Exercicio01.Domain.Core\obj\Debug\net6.0\Exercicio01.Domain.Core.csproj.CoreCompileInputs.cache
+C:\COTI-CURSO-DEVELOPER AVANÇADO C#\Exercicio01\Exercicio01.Domain.Core\obj\Debug\net6.0\Exercicio01.Domain.Core.dll
+C:\COTI-CURSO-DEVELOPER AVANÇADO C#\Exercicio01\Exercicio01.Domain.Core\obj\Debug\net6.0\refint\Exercicio01.Domain.Core.dll
+C:\COTI-CURSO-DEVELOPER AVANÇADO C#\Exercicio01\Exercicio01.Domain.Core\obj\Debug\net6.0\Exercicio01.Domain.Core.pdb
+C:\COTI-CURSO-DEVELOPER AVANÇADO C#\Exercicio01\Exercicio01.Domain.Core\obj\Debug\net6.0\ref\Exercicio01.Domain.Core.dll

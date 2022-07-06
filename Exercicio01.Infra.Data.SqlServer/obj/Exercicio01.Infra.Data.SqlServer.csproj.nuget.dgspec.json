@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\COTI-CURSO-DEVELOPER AVANÇADO C#\\Exercicio01\\Exercicio01.Infra.Data.SqlServer\\Exercicio01.Infra.Data.SqlServer.csproj": {}
+  },
+  "projects": {
+    "C:\\COTI-CURSO-DEVELOPER AVANÇADO C#\\Exercicio01\\Exercicio01.Domain.Core\\Exercicio01.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\COTI-CURSO-DEVELOPER AVANÇADO C#\\Exercicio01\\Exercicio01.Domain.Core\\Exercicio01.Domain.Core.csproj",
+        "projectName": "Exercicio01.Domain.Core",
+        "projectPath": "C:\\COTI-CURSO-DEVELOPER AVANÇADO C#\\Exercicio01\\Exercicio01.Domain.Core\\Exercicio01.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\LEL\\.nuget\\packages\\",
+        "outputPath": "C:\\COTI-CURSO-DEVELOPER AVANÇADO C#\\Exercicio01\\Exercicio01.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\COTI-CURSO-DEVELOPER AVANÇADO C#\\Exercicio01\\Exercicio01.Domain\\Exercicio01.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\COTI-CURSO-DEVELOPER AVANÇADO C#\\Exercicio01\\Exercicio01.Domain\\Exercicio01.Domain.csproj",
+        "projectName": "Exercicio01.Domain",
+        "projectPath": "C:\\COTI-CURSO-DEVELOPER AVANÇADO C#\\Exercicio01\\Exercicio01.Domain\\Exercicio01.Domain.csproj",
+        "packagesPath": "C:\\Users\\LEL\\.nuget\\packages\\",
+        "outputPath": "C:\\COTI-CURSO-DEVELOPER AVANÇADO C#\\Exercicio01\\Exercicio01.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\COTI-CURSO-DEVELOPER AVANÇADO C#\\Exercicio01\\Exercicio01.Domain.Core\\Exercicio01.Domain.Core.csproj": {
+                "projectPath": "C:\\COTI-CURSO-DEVELOPER AVANÇADO C#\\Exercicio01\\Exercicio01.Domain.Core\\Exercicio01.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\COTI-CURSO-DEVELOPER AVANÇADO C#\\Exercicio01\\Exercicio01.Infra.Data.SqlServer\\Exercicio01.Infra.Data.SqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\COTI-CURSO-DEVELOPER AVANÇADO C#\\Exercicio01\\Exercicio01.Infra.Data.SqlServer\\Exercicio01.Infra.Data.SqlServer.csproj",
+        "projectName": "Exercicio01.Infra.Data.SqlServer",
+        "projectPath": "C:\\COTI-CURSO-DEVELOPER AVANÇADO C#\\Exercicio01\\Exercicio01.Infra.Data.SqlServer\\Exercicio01.Infra.Data.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\LEL\\.nuget\\packages\\",
+        "outputPath": "C:\\COTI-CURSO-DEVELOPER AVANÇADO C#\\Exercicio01\\Exercicio01.Infra.Data.SqlServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\COTI-CURSO-DEVELOPER AVANÇADO C#\\Exercicio01\\Exercicio01.Domain\\Exercicio01.Domain.csproj": {
+                "projectPath": "C:\\COTI-CURSO-DEVELOPER AVANÇADO C#\\Exercicio01\\Exercicio01.Domain\\Exercicio01.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
